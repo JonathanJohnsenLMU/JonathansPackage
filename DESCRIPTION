@@ -1,0 +1,13 @@
+Package: JonathansPackage
+Type: Package
+Title: RandomDataGenerator
+Version: 0.1.0
+Author: Jonathan Johnsen(12568800)
+Maintainer: The package maintainer <Jonathan.Johnsen@campus.lmu.de>
+Description: This Package genrates randomized data about a population
+    If you don't want to go find a data set on the internet this can just make one for you.
+License: IDK
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+
